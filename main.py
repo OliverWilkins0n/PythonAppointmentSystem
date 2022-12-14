@@ -12,20 +12,6 @@ from smtpEmail import *
 from tkinter.scrolledtext import ScrolledText
 import time
 
-#regex
-
-###WHERE I LEFT OFF#####
-    #OnDoubleClick need to get variable from one class to another. DONE IT BIG LAD
-    #Make Sure That they cant double book. DONE IT BIG LAD
-    #Make it so that you can only select Times to the hour  DONE IT LAD
-    # Trying to get regex to work for adding customers to the database.
-    # Make it so that you can send emails smtp lib
-
-    #Make it so that it does error checks when updating customers details aswell as adding
-    #make it so you can only enter date.
-    #Add a logo to the top right hand corner.
-
-
 #def isLeapYear(year):
 #    if(Year % 4 == 0 and year %100 !=0) or(year%400 == 0):
 #        return True
